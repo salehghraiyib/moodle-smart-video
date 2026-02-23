@@ -1,0 +1,14 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor folders
+/.vscode/
+/.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Moodle specific ignores (if you generate any local test files)
+/tests/fixtures/
